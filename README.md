@@ -1,7 +1,7 @@
 
 TOPIC
 
-    A Terraform project splite for two state's that deploy Jenkins and Docker AWS environment.
+    A Terraform project split for two state's that deploy Jenkins and Docker AWS environment.
 
 SHORT DESCRIPTION
 
